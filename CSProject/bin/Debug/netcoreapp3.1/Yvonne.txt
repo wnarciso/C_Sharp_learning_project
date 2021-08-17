@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2019
+==========================
+Name of Staff: Yvonne
+Hours Worked: 150
+
+Basic Pay: $7,500.00
+Allowance: $1,000.00
+
+==========================
+Total Pay: $7,500.00
+==========================

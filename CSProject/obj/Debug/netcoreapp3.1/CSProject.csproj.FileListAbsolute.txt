@@ -1,0 +1,13 @@
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.exe
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.deps.json
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.json
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.dev.json
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\wnarc\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.AssemblyReference.cache
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfoInputs.cache
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfo.cs
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\wnarc\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.genruntimeconfig.cache

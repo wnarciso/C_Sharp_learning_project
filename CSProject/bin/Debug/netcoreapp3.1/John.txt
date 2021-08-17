@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2019
+==========================
+Name of Staff: John
+Hours Worked: 120
+
+Basic Pay: $3,600.00
+Overtime: $0.00
+
+==========================
+Total Pay: $3,600.00
+==========================

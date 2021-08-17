@@ -1,0 +1,11 @@
+PAYSLIP FOR FEB 2019
+==========================
+Name of Staff: Carol
+Hours Worked: 110
+
+Basic Pay: $3,300.00
+Overtime: $0.00
+
+==========================
+Total Pay: $3,300.00
+==========================

@@ -1,0 +1,6 @@
+Staff with less than 10 working hours
+
+Name of Staff: Yvonne, Hours Worked: 150
+Name of Staff: Peter, Hours Worked: 130
+Name of Staff: John, Hours Worked: 120
+Name of Staff: Carol, Hours Worked: 110
